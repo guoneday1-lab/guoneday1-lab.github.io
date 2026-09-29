@@ -725,6 +725,36 @@
         "matchedScenarios": [
           "warehouse"
         ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://yujinrobot.com/en/en/products/standard-amr/gocart1500",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "material_handling",
+            "source": "official_product",
+            "url": "https://yujinrobot.com/en/en/products/standard-amr/gocart1500",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://yujinrobot.com/en/en/products/standard-amr/gocart1500",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
         "sourceRanking": "Search V3.2",
@@ -1301,6 +1331,28 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://quicktron.com/en_US/products/c-series",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://quicktron.com/en_US/products/c-series",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
@@ -1996,6 +2048,36 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://yujinrobot.com/en/products/standard-amr/gocart250",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "material_handling",
+            "source": "official_product",
+            "url": "https://yujinrobot.com/en/products/standard-amr/gocart250",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://yujinrobot.com/en/products/standard-amr/gocart250",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
@@ -2764,6 +2846,19 @@
         "matchedScenarios": [
           "warehouse"
         ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://en.orionstar.com/cleanibot-c5.html",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
         "sourceRanking": "Search V3.2",
@@ -3401,6 +3496,28 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://www.balyo.com/agv-vna/veeny",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://www.balyo.com/agv-vna/veeny",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
@@ -4133,6 +4250,28 @@
         "matchedScenarios": [
           "warehouse"
         ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://yujinrobot.com/en/products/standard-amr/gocart180",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://yujinrobot.com/en/products/standard-amr/gocart180",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
         "sourceRanking": "Search V3.2",
@@ -4736,6 +4875,36 @@
         "matchedScenarios": [
           "warehouse"
         ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://robotnik.eu/products/mobile-robots/rb-robout/",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "material_handling",
+            "source": "official_product",
+            "url": "https://robotnik.eu/products/mobile-robots/rb-robout/",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://robotnik.eu/products/mobile-robots/rb-robout/",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
         "sourceRanking": "Search V3.2",
@@ -5327,6 +5496,36 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://robotnik.eu/products/mobile-robots/rb-theron/",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "material_handling",
+            "source": "official_product",
+            "url": "https://robotnik.eu/products/mobile-robots/rb-theron/",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://robotnik.eu/products/mobile-robots/rb-theron/",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
@@ -6036,6 +6235,36 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://www.balyo.com/agv-reach-trucks/reachy",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "material_handling",
+            "source": "official_product",
+            "url": "https://www.balyo.com/agv-reach-trucks/reachy",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://www.balyo.com/agv-reach-trucks/reachy",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",
@@ -6754,6 +6983,28 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "warehouse"
+        ],
+        "queryScene": "warehouse",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "warehouse",
+              "url": "https://www.balyo.com/agv-tuggers/tuggy",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "amr",
+            "source": "official_product",
+            "url": "https://www.balyo.com/agv-tuggers/tuggy",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "warehouse",

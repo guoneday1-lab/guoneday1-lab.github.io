@@ -28,5 +28,10 @@
     }
   },
   "persistentStorage": "Netlify deploy-scoped Blobs (Preview only)",
-  "generatedAt": "2026-09-29T08:21:50.718Z"
+  "productionStorageReady": false,
+  "aboutRoutes": [
+    "/about/",
+    "/candidate/v2.3.4/about/"
+  ],
+  "generatedAt": "2026-09-29T13:04:06.534Z"
 }

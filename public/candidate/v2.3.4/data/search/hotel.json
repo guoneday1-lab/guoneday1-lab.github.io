@@ -684,6 +684,58 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://gausium.com/case/hotel-prinz-rudolf/",
+              "method": "manual_review"
+            },
+            {
+              "field": "scene",
+              "value": "hotel_lobby",
+              "url": "https://gausium.com/case/hotel-prinz-rudolf/",
+              "method": "manual_review"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "cleaning",
+            "source": "official_product",
+            "url": "https://gausium.com/products/phantas",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "vacuuming",
+            "source": "official_product",
+            "url": "https://gausium.com/products/phantas",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "sweeping",
+            "source": "official_product",
+            "url": "https://gausium.com/products/phantas",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://gausium.com/products/phantas",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -1411,6 +1463,52 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://gausium.com/products/vacuum40",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "cleaning",
+            "source": "official_product",
+            "url": "https://gausium.com/products/vacuum40",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "vacuuming",
+            "source": "official_product",
+            "url": "https://gausium.com/products/vacuum40",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "sweeping",
+            "source": "official_product",
+            "url": "https://gausium.com/products/vacuum40",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://gausium.com/products/vacuum40",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -2031,6 +2129,36 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "hotel"
+        ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://relayrobotics.com/relay-delivery-robots-for-hotels",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "delivery",
+            "source": "official_product",
+            "url": "https://relayrobotics.com/relay-delivery-robots-for-hotels",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "delivery_robot",
+            "source": "official_product",
+            "url": "https://relayrobotics.com/relay-delivery-robots-for-hotels",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
@@ -2660,6 +2788,36 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://www.maytronics.com/en-us/commercial-pools/apartment-complexes-and-condos-cleaners/dolphin-wave-60_99991060-US.html",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "cleaning",
+            "source": "official_product",
+            "url": "https://www.maytronics.com/en-us/commercial-pools/apartment-complexes-and-condos-cleaners/dolphin-wave-60_99991060-US.html",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://www.maytronics.com/en-us/commercial-pools/apartment-complexes-and-condos-cleaners/dolphin-wave-60_99991060-US.html",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -3202,6 +3360,36 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "hotel"
+        ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://robotise.eu/muules",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "delivery",
+            "source": "official_product",
+            "url": "https://robotise.eu/muules",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "delivery_robot",
+            "source": "official_product",
+            "url": "https://robotise.eu/muules",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
@@ -3771,6 +3959,28 @@
         "matchedTasks": [],
         "matchedScenarios": [
           "hotel"
+        ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://promo-bot.ai/robots/promobot-v4/",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "customer_service",
+            "source": "official_product",
+            "url": "https://promo-bot.ai/robots/promobot-v4/",
+            "method": "official_page"
+          }
         ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
@@ -4492,6 +4702,28 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "verified",
+          "evidence": [
+            {
+              "field": "scene",
+              "value": "hotel",
+              "url": "https://www.ubtrobot.com/cn/humanoid/products/walker-c",
+              "method": "official_page"
+            }
+          ]
+        },
+        "supportingEvidence": [
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "humanoid",
+            "source": "official_product",
+            "url": "https://www.ubtrobot.com/cn/humanoid/products/walker-c",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -5158,33 +5390,14 @@
       "match": {
         "tier": "possible_match",
         "reasons": [
-          "可能适配 · 场景待核实"
+          "可能适配 · 当前无直接场景证据"
         ],
         "evidenceFields": [
           "officialCategory",
           "tasks",
           "confirmedScenarios"
         ],
-        "evidence": [
-          {
-            "field": "task",
-            "value": "floor_scrubbing",
-            "url": "https://en.orionstar.com/cleanibot-m1.html",
-            "method": "official_page"
-          },
-          {
-            "field": "task",
-            "value": "sweeping",
-            "url": "https://en.orionstar.com/cleanibot-m1.html",
-            "method": "official_page"
-          },
-          {
-            "field": "product_type",
-            "value": "cleaning_robot",
-            "url": "https://en.orionstar.com/cleanibot-m1.html",
-            "method": "official_page"
-          }
-        ],
+        "evidence": [],
         "unknownConditions": [
           "deployment",
           "integration",
@@ -5198,8 +5411,39 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "not_verified",
+          "evidence": []
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "floor_scrubbing",
+            "source": "official_product",
+            "url": "https://en.orionstar.com/cleanibot-m1.html",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "sweeping",
+            "source": "official_product",
+            "url": "https://en.orionstar.com/cleanibot-m1.html",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://en.orionstar.com/cleanibot-m1.html",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [
-          "official_scene:hotel"
+          "direct_scene_evidence"
         ],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -5940,27 +6184,14 @@
       "match": {
         "tier": "possible_match",
         "reasons": [
-          "可能适配 · 场景待核实"
+          "可能适配 · 当前无直接场景证据"
         ],
         "evidenceFields": [
           "officialCategory",
           "tasks",
           "confirmedScenarios"
         ],
-        "evidence": [
-          {
-            "field": "task",
-            "value": "cleaning",
-            "url": "https://en.orionstar.com/cleanibot-c5.html",
-            "method": "official_page"
-          },
-          {
-            "field": "product_type",
-            "value": "cleaning_robot",
-            "url": "https://en.orionstar.com/cleanibot-c5.html",
-            "method": "official_page"
-          }
-        ],
+        "evidence": [],
         "unknownConditions": [
           "deployment",
           "integration",
@@ -5974,8 +6205,31 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "not_verified",
+          "evidence": []
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "cleaning",
+            "source": "official_product",
+            "url": "https://en.orionstar.com/cleanibot-c5.html",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://en.orionstar.com/cleanibot-c5.html",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [
-          "official_scene:hotel"
+          "direct_scene_evidence"
         ],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
@@ -6648,39 +6902,14 @@
       "match": {
         "tier": "possible_match",
         "reasons": [
-          "可能适配 · 场景待核实"
+          "可能适配 · 当前无直接场景证据"
         ],
         "evidenceFields": [
           "officialCategory",
           "tasks",
           "confirmedScenarios"
         ],
-        "evidence": [
-          {
-            "field": "task",
-            "value": "cleaning",
-            "url": "https://gausium.com/cs/products/scrubber50",
-            "method": "official_page"
-          },
-          {
-            "field": "task",
-            "value": "floor_scrubbing",
-            "url": "https://gausium.com/cs/products/scrubber50",
-            "method": "official_page"
-          },
-          {
-            "field": "task",
-            "value": "sweeping",
-            "url": "https://gausium.com/cs/products/scrubber50",
-            "method": "official_page"
-          },
-          {
-            "field": "product_type",
-            "value": "cleaning_robot",
-            "url": "https://gausium.com/cs/products/scrubber50",
-            "method": "official_page"
-          }
-        ],
+        "evidence": [],
         "unknownConditions": [
           "deployment",
           "integration",
@@ -6694,8 +6923,47 @@
         "matchedScenarios": [
           "hotel"
         ],
+        "queryScene": "hotel",
+        "directSceneEvidence": {
+          "status": "not_verified",
+          "evidence": []
+        },
+        "supportingEvidence": [
+          {
+            "type": "task",
+            "field": "task",
+            "value": "cleaning",
+            "source": "official_product",
+            "url": "https://gausium.com/cs/products/scrubber50",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "floor_scrubbing",
+            "source": "official_product",
+            "url": "https://gausium.com/cs/products/scrubber50",
+            "method": "official_page"
+          },
+          {
+            "type": "task",
+            "field": "task",
+            "value": "sweeping",
+            "source": "official_product",
+            "url": "https://gausium.com/cs/products/scrubber50",
+            "method": "official_page"
+          },
+          {
+            "type": "product_type",
+            "field": "product_type",
+            "value": "cleaning_robot",
+            "source": "official_product",
+            "url": "https://gausium.com/cs/products/scrubber50",
+            "method": "official_page"
+          }
+        ],
         "missingEvidence": [
-          "official_scene:hotel"
+          "direct_scene_evidence"
         ],
         "canonicalScene": "hotel",
         "sourceRanking": "Search V3.2",
