@@ -1,20 +1,19 @@
-# ZLG Public Review
+# ZLG Public Review Mirror
 
-Read-only public review environment pinned to ZLG Production Deploy `6ab13e2d0dcd7f64cb3a69bf`.
+Public read-only snapshot for product and UI review.
 
-- Source Version: `V2.3.3`
-- Production origin: `https://zlg-ai-platform-staging-20260816.netlify.app/`
-- Review source: immutable Netlify deploy URL
-- Product data: production Product Graph and Search V3.2
-- Mock products: `0`
+- Source: ZLG `V2.3.3`
+- Production Deploy: `6ab13e2d0dcd7f64cb3a69bf`
+- Product data: Production Product Graph and reviewed Search V3.2 snapshots
+- Public products: `357`
+- Public families: `284`
+- Public brands: `79`
+- Verified-headquarters brands: `56`
+- Countries: `19`
+- Mock/demo products: `0`
 
-The root route proxies only `GET` and `HEAD` requests to the immutable production deploy. The only accepted `POST` routes are `/api/product-search` and `/__review/search`; both perform production search reads. All other mutation methods return `405`.
+This repository is a read-only review mirror. It is not the production deployment.
 
-Review-only compatibility additions:
+The published site contains static HTML, static JSON and browser-only filtering. It does not call Netlify Functions or the Production search runtime to display core review content. Forms, CRM writes, email, business mutations and database writes are not included.
 
-1. Response headers and HTML metadata identify the review source version and production deploy.
-2. `GET /api/product-search?query=...` mirrors the production read-only search POST for non-browser clients.
-3. `/__review/search?q=...` renders the same production search response as server-readable HTML.
-4. `/robots.txt` explicitly allows ordinary review crawling.
-
-No production settings, DNS, data, deploys, or environment variables are changed.
+GitHub Pages publishes the committed `public/` snapshot through `.github/workflows/pages.yml`. Production settings, DNS, data, Product Graph, Search V3.2, ranking, intent and UI are unchanged.
