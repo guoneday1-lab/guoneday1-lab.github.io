@@ -1,0 +1,2 @@
+User-agent: *
+Allow: /candidate/v2.3.4/

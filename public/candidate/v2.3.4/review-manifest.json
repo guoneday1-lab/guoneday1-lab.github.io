@@ -1,0 +1,32 @@
+{
+  "candidate": "V2.3.4",
+  "search": "V3.3",
+  "sourceProductionVersion": "V2.3.3",
+  "sourceProductionDeploy": "6ab13e2d0dcd7f64cb3a69bf",
+  "productionModified": false,
+  "productCount": 357,
+  "familyCount": 284,
+  "brandCount": 79,
+  "verifiedHqBrandCount": 56,
+  "countryCount": 19,
+  "mockDemo": 0,
+  "sceneEvidenceGate": {
+    "hotel": {
+      "strong_match": 7,
+      "possible_match": 3,
+      "related_match": 0
+    },
+    "hospital": {
+      "strong_match": 7,
+      "possible_match": 3,
+      "related_match": 0
+    },
+    "warehouse": {
+      "strong_match": 10,
+      "possible_match": 0,
+      "related_match": 0
+    }
+  },
+  "persistentStorage": "Netlify deploy-scoped Blobs (Preview only)",
+  "generatedAt": "2026-09-29T08:21:50.718Z"
+}
